@@ -5,12 +5,5 @@ class UC2{
         	return ans;
 
    	 }
-	public static void main(String[] args){
-
 	
-	int present_or_absent=presentOrAnsent();
-
-
-
-}
 }
